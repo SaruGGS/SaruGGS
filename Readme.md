@@ -1,1 +1,1 @@
-![Lain](https://user-images.githubusercontent.com/93264560/236699862-3a591cb7-a2b1-4342-b3a5-9d699b5d5ca3.jpg)
+![Lain](https://user-images.githubusercontent.com/93264560/236892251-6612f771-8395-4d16-aa5b-bb2e5128ff4e.gif)
