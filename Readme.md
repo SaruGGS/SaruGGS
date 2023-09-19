@@ -21,3 +21,6 @@ cp /etc/network/interfaces /etc/network/interfaces.bk
 ![2023-09-15_13-11](https://github.com/SaruGGS/SaruGGS/assets/93264560/372af05f-6aab-424c-9dfe-a4c975ee52d3)
 ![2023-09-15_13-10](https://github.com/SaruGGS/SaruGGS/assets/93264560/49050c0d-527c-4aac-929e-160c9c222305)
 
+
+![123232](https://github.com/SaruGGS/SaruGGS/assets/93264560/8674a658-af66-43b1-9aff-e6153de5316f)
+
