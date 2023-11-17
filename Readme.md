@@ -1,1 +1,1 @@
-![a-man-holds-a-poster-o](https://github.com/SaruGGS/SaruGGS/assets/93264560/da10d679-3a51-44c1-8563-783471bd2750)
+![225899](https://github.com/SaruGGS/SaruGGS/assets/93264560/e07497ca-7acc-4117-b3f2-d9a620be4abd)
