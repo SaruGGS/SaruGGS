@@ -1,1 +1,1 @@
-![pirate-flag-16](https://github.com/SaruGGS/SaruGGS/assets/93264560/1e88dfb6-70b7-4961-9fa3-d17733832dfa)
+![hacking](https://github.com/SaruGGS/SaruGGS/assets/93264560/ed0f562a-bae1-4292-8b40-302c0dd7dfb4)
