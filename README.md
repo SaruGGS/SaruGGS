@@ -1,1 +1,1 @@
-<img align="rigth" src="https://github.com/user-attachments/assets/ccbc5241-1f22-4ae2-aba4-952e1383b8d9">
+<img src="https://github.com/user-attachments/assets/ccbc5241-1f22-4ae2-aba4-952e1383b8d9">
